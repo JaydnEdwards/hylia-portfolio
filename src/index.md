@@ -23,3 +23,7 @@ While I’m interested in technology as a web designer, gamer and digital media 
 I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents.
 
 Here are a few examples of actual client work. However, Tracey Atkinson is not live on its own domain right now. You can see a live version on my own domain.
+
+## Get in touch!
+
+I’m more than happy to chat, so please feel free to fill in the form below. I'm currently looking for work, so potential employers are very welcome! I'll try to get back to you as soon as possible. In the mean time, why don't you take a look at my social media?
