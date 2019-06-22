@@ -1,10 +1,29 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Jaydn Edwards
+metaTitle: 'Jaydn Edwards, Web Design'
+metaDesc: >-
+  I’m a Junior Web Designer & Front-End Developer based in Pontefract, West
+  Yorkshire. I have studied HTML, CSS, SCSS, WordPress theme creation, some
+  design for print and aspects of digital marketing, including SEO.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: /images/imgheader.png
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+# Hi, I'm Jaydn.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia)
+I’m a Junior Web Designer & Front-End Developer, based in Pontefract, West Yorkshire. I have been taught and taught myself web over the past 3 years at Wakefield College and the University Centre at Wakefield College. I've studied HTML, CSS, SCSS, WordPress theme creation, branding and digital marketing.
+
+In addition, I am a volunteer at Pontefract Castle and am a member of the Pontefract Civic Society.
+
+While I’m interested in technology as a web designer, gamer and digital media addict, I also have a passion for ancient history and mythology. I will bore you about ancient Mesopotamia, given the chance.
+
+## I'm a designer. Here's some of my work.
+
+I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents.
+
+Here are a few examples of actual client work. However, Tracey Atkinson is not live on its own domain right now. You can see a live version on my own domain.
+
+## Get in touch!
+
+I’m more than happy to chat, so please feel free to fill in the form below. I'm currently looking for work, so potential employers are very welcome! I'll try to get back to you as soon as possible. In the mean time, why don't you take a look at my social media?
