@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": false,
-  "name": "Jaydn Edwards, Web Design",
-  "shortDesc": "Copyright 2019 Jaydn Edwards. Proudly powered by Netlify CMS.",
+  "showThemeCredit": true,
+  "name": "Jaydn Edwards",
+  "shortDesc": "Copyright 2019 Jaydn Edwards.",
   "url": "gifted-stonebraker-1116da.netlify.com",
   "authorEmail": "hello@jaydnedwards.com",
   "authorHandle": "@jaydn_edwards",
