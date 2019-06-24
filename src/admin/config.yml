@@ -108,6 +108,13 @@ collections:
               - {label: "Mid", name: "mid", widget: "string", default: "hsl(0, 0%, 80%)"}
               - {label: "Dark", name: "dark", widget: "string", default: "hsl(0, 0%, 20%)"}
               - {label: "Main Gradient", name: "gradient", widget: "string", default: "linear-gradient(to right, #EA5438, #DE2477)"}
+          - label: "Hero Image"
+            name: "hero"
+            widget: "image"
+            default: "/uploads/imgheader.png"
+            media_library:
+              config:
+                multiple: true
           - label: "Fonts"
             name: "fonts"
             widget: "hidden"
