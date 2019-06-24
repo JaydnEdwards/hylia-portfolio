@@ -1,5 +1,8 @@
 .site-head {
   background-image: url('hero') ;
+  background-size: cover;
+  height: 30vh;
+  
   
   &__site-name {
     font-weight: 700;
