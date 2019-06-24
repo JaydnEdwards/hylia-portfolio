@@ -18,11 +18,15 @@ In addition, I am a volunteer at Pontefract Castle and am a member of the Pontef
 
 While I’m interested in technology as a web designer, gamer and digital media addict, I also have a passion for ancient history and mythology. I will bore you about ancient Mesopotamia, given the chance.
 
+
+
 ## I'm a designer. Here's some of my work.
 
 I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents.
 
 Here are a few examples of actual client work. However, Tracey Atkinson is not live on its own domain right now. You can see a live version on my own domain.
+
+
 
 ## Get in touch!
 
