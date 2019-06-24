@@ -23,11 +23,13 @@ body {
   @include apply-utility('font', 'base');
 }
 
-/*h1,
+h1,
 h2,
 h3 {
-  @include apply-utility('font', 'serif');
-}*/
+  background: var(--colour-gradient);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
 
 h1 {
   font-size: get-size(700);
