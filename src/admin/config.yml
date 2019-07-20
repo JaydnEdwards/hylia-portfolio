@@ -111,7 +111,7 @@ collections:
           - label: "Hero Image"
             name: "hero"
             widget: "image"
-            default: "/uploads/imgheader.png"
+            default: "src/images/imgheader.png"
             media_library:
               config:
                 multiple: true
