@@ -1,0 +1,24 @@
+<section class="[ contact ] [ pad-top-700 gap-bottom-900 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <!-- <h2 class="[ contact__heading ] [ text-700 md:text-800 ]">{{ contactHeading }}</h2> -->
+      <form name="Contact" method="post" data-netlify="true">
+                    
+                    <!--Name field -->
+                    <label for="name">Your name</label>
+                    <input type="text" id="name" name="name" placeholder="Your name" pattern=[A-Z\sa-z]{3,20} required>
+                    
+                    <!--eMail Field -->
+                    <label for="email">Your email</label>
+                    <input type="email" id="email" name="email" placeholder="name@domain.com" required>
+                    
+                    <!--Message Field-->
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" placeholder="Your message goes in here." required></textarea>
+                    
+                    <!--Send Button-->
+                    <button type="submit" name="submit">Send Message</button>
+                    
+                    
+                </form>
+    </div>
+  </section>
