@@ -3,6 +3,9 @@
   background-size: cover;
   height: 30vh;
   
+  &__inner {
+   background: rgba(255, 255, 255, 0.25); 
+  }
   
   &__site-name {
     font-weight: 700;
