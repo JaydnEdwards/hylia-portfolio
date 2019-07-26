@@ -3,6 +3,10 @@
   background-size: cover;
   height: 30vh;
   
+  &wrapper{
+    background: rgba(255, 255, 255, 0.25);
+  }
+  
   &__inner {
    background: rgba(255, 255, 255, 0.25); 
   }
