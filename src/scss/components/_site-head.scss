@@ -29,3 +29,9 @@
   font-size: 1.5em;
   font-weight: 500;
 } 
+
+screen and (min-width: 48rem){
+  .md\:space-before{
+    justify-content: center;
+  }
+}
