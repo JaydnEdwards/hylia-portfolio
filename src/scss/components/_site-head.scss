@@ -9,10 +9,6 @@
    width: 75vw; 
   }
   
-  &__inner {
-   background: rgba(255, 255, 255, 0.25); 
-  }
-  
   &__site-name {
     font-weight: 700;
     text-decoration: none;
@@ -28,6 +24,5 @@
   }
 
 .site-head nav{
-  background: rgba(255, 255, 255, 0.25);
   width: 100vw;
 }
