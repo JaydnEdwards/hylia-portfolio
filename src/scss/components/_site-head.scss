@@ -5,6 +5,10 @@
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
   
+  img{
+   width: 75vw; 
+  }
+  
   &__inner {
    background: rgba(255, 255, 255, 0.25); 
   }
