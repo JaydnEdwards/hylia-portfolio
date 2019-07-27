@@ -2,7 +2,7 @@
   background-image: url('https://raw.githubusercontent.com/JaydnEdwards/hylia-portfolio/master/src/images/imgheader.png') ;
   background-size: cover;
   height: 30vh;
-  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%)
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
   
   &__inner {
    background: rgba(255, 255, 255, 0.25); 
