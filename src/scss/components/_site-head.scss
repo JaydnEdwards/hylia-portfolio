@@ -1,5 +1,6 @@
 .site-head {
-  background-image: url('https://raw.githubusercontent.com/JaydnEdwards/hylia-portfolio/master/src/images/imgheader.png') ;
+  //background-image: url('https://raw.githubusercontent.com/JaydnEdwards/hylia-portfolio/master/src/images/imgheader.png') ;
+   background-image: var(hero) ;
   background-size: cover;
   height: 60vh;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
