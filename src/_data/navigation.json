@@ -14,6 +14,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/Jaydn_Edwards",
       "external": true
+    },
+    {
+      "text": "Work",
+      "url": "/portfolio",
+      "external": false
     }
   ]
 }
