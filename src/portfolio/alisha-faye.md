@@ -8,3 +8,5 @@ tags:
   - WordPress
 ---
 Alisha Lorem Ipsum
+
+![A website design I created for the artist Alisha Faye.](/images/index.png "Alisha Faye's custom WordPress site.")
