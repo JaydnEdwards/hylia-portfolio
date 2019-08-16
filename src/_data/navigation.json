@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "Work",
+      "url": "/portfolio",
+      "external": false
+    },
+    {
       "text": "Blog",
       "url": "https://gifted-stonebraker-1116da.netlify.com/archive",
       "external": false
@@ -14,11 +19,6 @@
       "text": "Twitter",
       "url": "https://twitter.com/Jaydn_Edwards",
       "external": true
-    },
-    {
-      "text": "Work",
-      "url": "/portfolio",
-      "external": false
     }
   ]
 }
