@@ -1,4 +1,4 @@
 ---
 title: 'Portfolio Pieces'
-layout: 'layouts/archive.njk'
+layout: 'layouts/portfolio.njk'
 ---
