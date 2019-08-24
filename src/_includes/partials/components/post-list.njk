@@ -5,9 +5,9 @@
       <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           <li class="post-list__item">
-            {% for featuredImage %}
+            {% if featuredImage %}
               <img src="{{ featuredImage }}"
-            {% endfor %}
+            {% endif %}
             <h3 class="font-base leading-tight text-600 weight-mid">
               <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
             </h3>
