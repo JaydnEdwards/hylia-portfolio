@@ -1,5 +1,6 @@
 ---
 title: A simple post
+featuredImage: /images/headerbg.png
 date: '2019-06-18'
 tags:
   - demo-content
