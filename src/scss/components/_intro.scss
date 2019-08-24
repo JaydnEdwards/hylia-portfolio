@@ -6,7 +6,7 @@
     font-size: get-size(500);
 
     a {
-      color: var(--colour-gradient);
+      background-color: var(--colour-gradient);
       -webkit-text-fill-color: transparent;
 
       &:hover {
