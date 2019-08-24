@@ -6,8 +6,9 @@
     font-size: get-size(500);
 
     a {
-      background-color: var(--colour-gradient);
+      background: var(--colour-gradient);
       -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
 
       &:hover {
         text-decoration: underline black;
