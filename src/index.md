@@ -18,7 +18,7 @@ In addition, I am a volunteer at [Pontefract Castle](https://www.pontefractcastl
 
 While I’m interested in technology as a web designer, gamer and digital media addict, I also have a passion for ancient history and mythology. I will bore you about ancient Mesopotamia, given the chance. I can also make a pretty decent planet or moon, if I do say so myself.
 
-## I'm a designer. 
+## I'm a designer.
 
 I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents. In my portfolio, you'll see some professional examples, as well as university work.
 
@@ -28,6 +28,6 @@ I am currently searching for full-time work. I am also considering small freelan
 
 If you are recruiting, or have an enquiry about anything, please do not hesitate to get in touch. 
 
-Email me at [hello@jaydnedwards.com](hello@jaydnedwards.com).
+Email me at <mailto:hello@jaydnedwards.com>.
 
 You can also reach me on my [Twitter](https://twitter.com/Jaydn_Edwards).
