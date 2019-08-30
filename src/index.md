@@ -20,6 +20,8 @@ While I’m interested in technology as a web designer, gamer and digital media 
 
 ## I'm a designer.
 
+[Check out my work!](work)
+
 I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents. In my portfolio, you'll see some professional examples, as well as university work.
 
 ## Get in touch!
