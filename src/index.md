@@ -28,7 +28,7 @@ I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketc
 
 I've been through college and university. Here are my qualifications:
 
-* FdA Creative & Digital Industries.
+* FdA Creative & Digital Industries
 * Level 3 Social Media for Business
 
 I also have:
