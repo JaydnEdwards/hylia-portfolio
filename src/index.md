@@ -24,6 +24,17 @@ While I’m interested in technology as a web designer, gamer and digital media 
 
 I’ve worked in Adobe Photoshop, Illustrator and InDesign, and have tried Sketch and Figma. I have created web designs, designs for print, logo and branding designs and branded documents. In my portfolio, you'll see some professional examples, as well as university work.
 
+## I have qualifications. Promise!
+
+I've been through college and university. Here are my qualifications:
+
+* FdA Creative & Digital Industries
+* Level 3 Social Media for Business
+
+I also have:
+
+* Level 3 Emergency First Aid at Work
+
 ## Get in touch!
 
 I am currently searching for full-time work. I am also considering small freelance gigs.
