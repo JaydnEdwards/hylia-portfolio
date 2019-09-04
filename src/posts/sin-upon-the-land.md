@@ -27,3 +27,15 @@ The Myrmidons took one step, and another, slowly creating a smaller circle. They
 "What are you doing? Wait- No! Get away!"
 
 Ashur and Beorhtsige walked by, passing the slaughter of the King by those he once commanded and yet saw as nothing but disposable pawns. He walked to the throne, attempting to block out the sword of metal rending flesh, even after the screams and whimpers had stopped.
+
+"This is the Throne..." Beorhtsige stood in awe of the crystal throne that towered above him. 
+
+"Yes, and with it you will be able to command the reserves of Essence my kingdom has collected over centuries. I pray that this will be enough to save you, my friend." Ashur's voice became taut.
+
+"No need for prayer. This will work, or it won't. Either way, I'll blast that crazed bitch and her army into dust."
+
+"I will watch over you. I'll always be here for you."
+
+Beorhtsige nodded solemnly, stood upon on a circle of azure before the throne, and began to pray.
+
+"The light of the moon illuminates me." _Knock._ "It cleanses my soul," _Draw._ "And brings Sin upon the land." _LOOSE!_
