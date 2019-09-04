@@ -14,10 +14,16 @@ One more step, and Ashur reached the throne room at the peak of the Great Ziggur
 
 Ashur growled in response, growing to a snarling scream of pure, unadulterated rage.
 
-"You are a grotesque monster. A poor ruler who cares naught but his own reign, even as the world around us burns and the land dies. The world has seen enough and your kingdom has suffered under your yoke. It ends. One way or another, it ends tonight." He raised his sword, and a Fist of Dryuk Myrmidons rushed from the stairs behind Ashur. They marched well into the throne room, creating a perimeter.
+"You are a grotesque monster. A poor ruler who cares naught but his own reign, even as the world around us burns and the land dies. The world has seen enough and your kingdom has suffered under your yoke. It ends. One way or another, it ends tonight." He raised his sword, and a Fist of Dryuk Myrmidons rushed from the stairs behind Ashur. They marched well into the throne room, creating a perimeter. They held their blades ready, prepared to attack.
 
 A whistle through the air, and a blood curdling scream. 
 
 From the King's breast, a knife.
 
 "NO! No..no...no...no... KILL THEM!"
+
+The Myrmidons took one step, and another, slowly creating a smaller circle. They ignored Ashur and Beorhtsige.
+
+"What are you doing? Wait- No! Get away!"
+
+Ashur and Beorhtsige walked by, passing the slaughter of the King by those he once commanded and yet saw as nothing but disposable pawns. He walked to the throne, attempting to block out the sword of metal rending flesh, even after the screams and whimpers had stopped.
