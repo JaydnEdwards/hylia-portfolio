@@ -15,3 +15,9 @@ One more step, and Ashur reached the throne room at the peak of the Great Ziggur
 Ashur growled in response, growing to a snarling scream of pure, unadulterated rage.
 
 "You are a grotesque monster. A poor ruler who cares naught but his own reign, even as the world around us burns and the land dies. The world has seen enough and your kingdom has suffered under your yoke. It ends. One way or another, it ends tonight." He raised his sword, and a Fist of Dryuk Myrmidons rushed from the stairs behind Ashur. They marched well into the throne room, creating a perimeter.
+
+A whistle through the air, and a blood curdling scream. 
+
+From the King's breast, a knife.
+
+"NO! No..no...no...no... KILL THEM!"
