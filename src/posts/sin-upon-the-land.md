@@ -10,6 +10,8 @@ Ashur cut through flesh and muscle of the Great Ziggurat's defenders. They were 
 
 One more step, and Ashur reached the throne room at the peak of the Great Ziggurat with wings outstretched. His face, smeared and covered in blood the same hue as his crown of scales. At his right stood Beorhtsige. At the Throne, stood the King. 
 
-"_How dare you!_ You invade this sacred place with your band of traitorous scum, and point your blade at _me_?!" The King's hoarse, deep voice carried throughout the throne room. He took a heavy step, drawing his sword clumsily from its scabbard. 
+"_How dare you!_ You invade this sacred place with your band of traitorous scum, and point your blade at _me_?!" The King's hoarse, deep voice carried throughout the throne room while his face contorted in disgust and contempt. He took a heavy step, drawing his sword clumsily from its scabbard. 
 
 Ashur growled in response, growing to a snarling scream of pure, unadulterated rage.
+
+"You are a grotesque monster. A poor ruler who cares naught but his own reign, even as the world around us burns and the land dies. The world has seen enough and your kingdom has suffered under your yoke. It ends. One way or another, it ends tonight." He raised his sword, and a Fist of Dryuk Myrmidons rushed from the stairs behind Ashur. They marched well into the throne room, creating a perimeter.
